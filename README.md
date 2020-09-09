@@ -1,5 +1,7 @@
-# Hough_Transform_Deteccion_automatica_de_Leucocitos
-Codigo en Python de la transforma de Hough para detectar estructuras circulares. Se aplica a la detección y contabilización automática de Leucocitos.
+# Hough Transform en OpenCV: Deteccion_automatica_de_Leucocitos.
+
+Codigo en Python de la transforma de Hough aplicado para detectar estructuras circulares. 
+Se aplica a la detección y contabilización automática de Leucocitos.
 
 ## Preprocesamiento, aplicación, segementaión y detección:
 
